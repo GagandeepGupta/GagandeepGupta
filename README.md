@@ -3,6 +3,19 @@
 <h1 align="center">Hi 👋, I'm Gagan Deep Gupta</h1>
 <h3 align="center">A passionate DevOps/Cloud Engineer from India</h3>
 
+<img align='right' height=350px width=350px src="https://www.darwinrecruitment.com/wp-content/uploads/2022/03/About-us-Temp-to-Perm.gif">
+
+💬 Ask me about **DevOps Tools and Technology Related stuff**
+
+📫 How to reach me **gagandeepgupta520@gmail.com**
+
+📄 Know about my experiences 
+
+🏢 I’m currently working in ATCS as DevOps Engineer
+
+🌱 I’m currently working on Meredes Benz Project Setup
+
+
 
 <br><br><br><br>
 <h3 align="left">Connect with me:</h3>
