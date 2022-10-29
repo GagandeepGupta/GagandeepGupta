@@ -9,8 +9,6 @@
 
 📫 How to reach me **gagandeepgupta520@gmail.com**
 
-📄 Know about my experiences 
-
 🏢 I’m currently working in ATCS as DevOps Engineer
 
 🌱 I’m currently working on Meredes Benz Project Setup
